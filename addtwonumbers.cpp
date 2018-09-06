@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-#if 0
+
 int main() {
 
 	int a=4,b=5;
@@ -16,4 +16,3 @@ int main() {
 	}
 	cout << "sum = " << a <<endl;
 }
-#endif
